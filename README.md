@@ -13,5 +13,9 @@
 
 ## 07/29
 
+1. [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)
+2. [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)
+3. 
+
 
 ## 08/05
