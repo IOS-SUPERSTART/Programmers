@@ -15,7 +15,7 @@
 
 1. [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)
 2. [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)
-3. 
+3. [예산](https://programmers.co.kr/learn/courses/30/lessons/12982)
 
 
 ## 08/05
