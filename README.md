@@ -19,3 +19,7 @@
 
 
 ## 08/05
+
+1. [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)
+2. [다트게임](https://programmers.co.kr/learn/courses/30/lessons/17682)
+3. [소수만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)
