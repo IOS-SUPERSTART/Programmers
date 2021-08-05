@@ -44,7 +44,7 @@ func solution(_ dartResult:String) -> Int {
                 case "*":
                     score[score.count - 1] *= 2
                     if i > 0 {
-                        score[score.count - 1] *= 2
+                        score[score.count - 2] *= 2
                     }
                 case "#":
                     score[score.count - 1] *= -1
