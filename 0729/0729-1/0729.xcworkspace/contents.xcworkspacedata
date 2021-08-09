@@ -2,9 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:0729-Khj.playground">
-   </FileRef>
-   <FileRef
       location = "group:0729-Pjh.playground">
    </FileRef>
    <FileRef
