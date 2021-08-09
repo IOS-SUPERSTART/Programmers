@@ -1,3 +1,7 @@
-import UIKit
+import Foundation
 
-var greeting = "Hello, playground"
+func solution(_ nums:[Int]) -> Int {
+    var answer = -1
+    
+    return answer
+}
