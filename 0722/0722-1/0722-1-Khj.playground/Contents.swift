@@ -5,7 +5,7 @@ func solution(_ new_id:String) -> String {
     result = new_id
         .lowercased()
         .replacingOccurrences(of: #"[^\w.-]"#, with: "", options: .regularExpression)
-        .replacingOccurrences(of: #"\.{2,}"#, with: ".", options: .regularExpression)
+        .replacingOccurrences(of: ".{2,}", with: ".", options: .regularExpression)
         .trimmingCharacters(in: ["."])
     if result == "" {
         result += "a"
