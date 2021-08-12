@@ -32,4 +32,4 @@
 
 ## 08/19
 
-1. [2주차](https://programmers.co.kr/learn/courses/30/lessons/83201)
+1. [2주차:](https://programmers.co.kr/learn/courses/30/lessons/83201)
