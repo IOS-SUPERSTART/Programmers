@@ -33,3 +33,4 @@
 ## 08/19
 
 1. [2주차:](https://programmers.co.kr/learn/courses/30/lessons/83201)
+2. [이상한 문자만들기](https://programmers.co.kr/learn/courses/30/lessons/12930)
