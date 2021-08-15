@@ -34,3 +34,4 @@
 
 1. [2주차:상호평가](https://programmers.co.kr/learn/courses/30/lessons/83201)
 2. [이상한 문자만들기](https://programmers.co.kr/learn/courses/30/lessons/12930)
+2. [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)
