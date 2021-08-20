@@ -38,5 +38,4 @@
 
 ## 08/26
 
-1. [서울에서 김서방 찾기]
-1. [신규아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/12919)
+1. [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)
