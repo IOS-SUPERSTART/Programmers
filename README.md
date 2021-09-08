@@ -51,3 +51,5 @@
 ## 9/16
 
 1. [two-sum](https://leetcode.com/problems/two-sum/)
+2. [reverse-integer](https://leetcode.com/problems/reverse-integer/)
+3. [palindrome-number](https://leetcode.com/problems/palindrome-number/)
