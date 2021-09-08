@@ -46,3 +46,8 @@
 
 1. [정렬: 단어정렬](https://www.acmicpc.net/problem/1181)
 2. [정렬: 나이순 정렬](https://www.acmicpc.net/problem/10814)
+
+
+## 9/16
+
+1. [two-sum](https://leetcode.com/problems/two-sum/)
